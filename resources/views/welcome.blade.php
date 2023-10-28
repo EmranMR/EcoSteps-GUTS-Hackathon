@@ -33,7 +33,14 @@
         </div>
     </div>
     <div class="mx-10 mt-3 pb-4 bottom-2 border-b-2 border-red-400 flex flex-row justify-between items-stretch">
-        div
+        <div class="flex flex-row justify-between">
+            <img class="w-3/12" src="{{asset('images/wwf.svg')}}" alt="" srcset="">
+            <div class="pl-8">
+
+                <h3 class="mb-4">About WWF</h3>
+                <p>We’re WWF, the leading global environmental charity, and we’re bringing our world back to life. With nature in freefall, we’re urgently tackling the underlying causes that are driving the decline, and we’re finding solutions so future generations have a world with thriving habitats and wildlife. It’s a huge challenge, but if we all act together, there is hope.</p>
+            </div>
+        </div>
     </div>
 </body>
 
